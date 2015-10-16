@@ -1,0 +1,116 @@
+/* Inserta tu código aqui */
+html{overflow-x:hidden;}
+.mg-header{
+	margin-left: 60%;
+}
+.fondo{
+	background: #4AC5A2;
+	margin-top: -25px;
+	height: 300px; 
+	width: 100%;
+}
+.hr{
+	background-color: #fff;
+	border-color: #fff;
+	height: 2px;
+	width: 7%;
+	display: inline-block; 
+	margin-left: 40.9%;
+}
+.hr2{
+	background-color: #fff;
+	border-color: #fff;
+	height: 2px;
+	width: 7%;
+	display: inline-block; 
+	margin-right: 40.9%;
+}
+.hr3{
+	background-color: #162850;
+	border-color: #162850;
+	height: 2px;
+	width: 7%;
+	display: inline-block; 
+	margin-left: 40.9%;
+}
+.hr4{
+	background-color: #162850;
+	border-color: #162850;
+	height: 2px;
+	width: 7%;
+	display: inline-block; 
+	margin-right: 40.9%;
+}
+.text{
+	color: #fff;
+	padding-top: 8%;
+}
+.text2{
+	color: #fff;
+	padding-top: 2.5%;
+	text-align: center;
+}
+.text3{
+	color: #fff;
+	padding-top: 2.5%;
+}
+.text4{
+	color: #fff;
+	padding-top: 2.5%;
+	padding-right: 5%;
+}
+.text5{
+	color: #4AC5A2;
+	padding-top: 2.5%;
+	padding-left: 5%;
+	font-size: 40px;
+}
+.text6{
+	padding-top: 2.5%;
+	margin-left: -5%;
+}
+.mg{
+	margin-left: 15%;
+}
+.mg-btn{
+	margin-top: 7%;
+	margin-bottom: 5%;
+}
+.mg-form{
+	padding-left: 40.5%;
+}
+.mg-pagi{
+	margin-left: 4%;
+}
+.i{
+	position: relative;
+	top: -15px;
+	font-size: 10px;
+	font-family: FontAwesome;
+	content:"\f005";
+	color: #fff;
+}
+.i2{
+	position: relative;
+	top: -15px;
+	font-size: 10px;
+	font-family: FontAwesome;
+	content:"\f005";
+}
+.img{
+	width: 85%;
+	height: 85%;
+	position: relative;
+	margin-bottom: 15%;
+}
+.img2{
+	width: 80%;
+	height: 80%;
+	position: relative;
+	margin-bottom: 15%;
+	padding-left: 10%;
+
+}
+.row2{
+	margin-left: 5%;
+}
